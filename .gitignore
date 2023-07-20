@@ -1,0 +1,9 @@
+cache/
+__pycache__/
+assets/__pycache__/
+gui/__pycache__/
+gui/widgets/__pycache__/
+scraper/__pycache__/
+test_output.js
+test.ipynb
+test.py
